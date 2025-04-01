@@ -57,7 +57,7 @@ const CustomerTable: React.FC = () => {
         <Table>
           <TableHead>
             <TableRow>
-              <TableCell>No</TableCell>
+              <TableCell>No:</TableCell>
               <TableCell>Ad</TableCell>
               <TableCell>Soyad</TableCell>
               <TableCell>Email</TableCell>
